@@ -16,9 +16,7 @@ Elastic
 # yarn-error.log*
 
 # fileBeat
-filebeat-7.12.0-linux-x86_64
-
-
+filebeat
 
 # Runtime data
 pids
