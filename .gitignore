@@ -3,6 +3,7 @@
 *.json
 config
 logstash-7.12.0
+Elastic
 # local env files
 .env.local
 .env.*.local
@@ -13,6 +14,11 @@ logstash-7.12.0
 # npm-debug.log*
 # yarn-debug.log*
 # yarn-error.log*
+
+# fileBeat
+filebeat-7.12.0-linux-x86_64
+
+
 
 # Runtime data
 pids
