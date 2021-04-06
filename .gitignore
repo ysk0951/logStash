@@ -2,7 +2,7 @@
 #config
 *.json
 config
-
+logstash-7.12.0
 # local env files
 .env.local
 .env.*.local
